@@ -1,0 +1,25 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+.card{
+    background-color: white;
+    width: 200px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 10px;
+    font-family: "Outfit", sans-serif;
+    text-align: center;
+}
+
+.qr{
+    width: inherit; 
+    border-radius: 10px;
+}
+.firsttext{
+    font-size: medium;
+}
+.secondtext{
+    font-size: 10px;
+    color: hsl(212, 45%, 89%);
+}
